@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B124C418-3C63-46B6-8362-C2AE827C1065"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50817CB8-D5FB-4405-ACA6-4B80C69FA5C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContentFilterTests/ContentFilterTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentFilterTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "50817CB8-D5FB-4405-ACA6-4B80C69FA5C5 - 45941d7e685120e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContentFilterTests.ContentFilterTests.testSingleImageAnalysis() -&gt; ()"
+                  moduleName = "ContentFilterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/SwiftApps/WhyNotTry/ContentFilter/ContentFilterTests/ContentFilterTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "50817CB8-D5FB-4405-ACA6-4B80C69FA5C5 - 45941d7e685120e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContentFilterTests.ContentFilterTests.testSingleImageAnalysis() -&gt; ()"
+                  moduleName = "ContentFilterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/SwiftApps/WhyNotTry/ContentFilter/ContentFilterTests/ContentFilterTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "433">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
